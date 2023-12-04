@@ -1,4 +1,4 @@
-name: Update rusEFI Reference
+name: Update hellen-one Reference
 
 on:
   workflow_dispatch:
