@@ -1,7 +1,7 @@
 # make sure to increment revision BEFORE any changes to content
 
-BOARD_PREFIX=Test
-BOARD_SUFFIX=Board
+BOARD_PREFIX=test
+BOARD_SUFFIX=board
 BOARD_REVISION=a
 
 # does not affect fab files, only needed to have nice rendered preview
